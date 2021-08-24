@@ -9,4 +9,4 @@ dataset:
     storage: s3h://mlgit-datasets
   mutability: strict
   name: imagenet8
-  version: 7
+  version: 8
