@@ -9,4 +9,4 @@ dataset:
     storage: s3h://ml-git-qa-us-east-1
   mutability: strict
   name: imagenet8
-  version: 17
+  version: 18
