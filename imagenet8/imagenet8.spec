@@ -3,10 +3,10 @@ dataset:
   - computer-vision
   - images
   manifest:
-    amount: 12
+    amount: 1
     files: MANIFEST.yaml
-    size: 7.1 MB
+    size: 0 Bytes
     storage: s3h://mlgit-datasets
   mutability: strict
   name: imagenet8
-  version: 14
+  version: 15
